@@ -127,6 +127,6 @@ $ ls -l /tmp/my_fifo
 
 
 prwxr-xr-x    1 root     root             0 Apr 27 14:45 /tmp/my_fifo
-
+```
 # RESULT:
 The program is executed successfully.
